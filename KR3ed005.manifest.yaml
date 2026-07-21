@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed005_000.yaml, hash: 'sha256:3813835f230399b8e8662ae831533dab0ce0b768712116136728ab6d89a24a4c'}
+  - {seq: 0, filename: KR3ed005_000.yaml, hash: 'sha256:8b7e829099c2db4d0a0a13c60c7b247e581b4354d5b390962973566eeb70ab7f'}
   - {seq: 1, filename: KR3ed005_001.yaml, hash: 'sha256:9addbafcfef6ecd417d2f29f16eb43c496cd2b4b5508cad8667cd54e5b4f44b8'}
   - {seq: 2, filename: KR3ed005_002.yaml, hash: 'sha256:9504b74479cb125c5c46ebcfce6366e085dd137875fbe921f73e6e6a11fadbe6'}
   - {seq: 3, filename: KR3ed005_003.yaml, hash: 'sha256:8e58bf78b9bbc0c10772d5aa172b11b723e441fb9405dd37f4b59d48d39f2641'}
@@ -41,7 +41,7 @@ assets:
   - {seq: 21, filename: KR3ed005_021.yaml, hash: 'sha256:585a139b7989fd43b79d521f89b0f69c5f013ec03a3befb712af5ca833ad5417'}
   - {seq: 22, filename: KR3ed005_022.yaml, hash: 'sha256:164a6117c3ada3fa116d2d106fcbda7e09cf15bed9ac53a8242b170557f2399d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed005_000.markers.yaml, hash: 'sha256:36e8e3693b16967eec241dcdb3b01fdf9f019ddc0fa08eb40d67e2fc9435f130'}
+  - {seq: 0, role: markers, filename: assets/KR3ed005_000.markers.yaml, hash: 'sha256:320b4dfdccad129f33fa10945fd8f7d47bd5a4c8c20a0b7299daf14efe15eede'}
   - {seq: 1, role: markers, filename: assets/KR3ed005_001.markers.yaml, hash: 'sha256:c5b08bd186e517436a77d4e05d33ef6df30bbca50de4d18c737592fe5477e81a'}
   - {seq: 2, role: markers, filename: assets/KR3ed005_002.markers.yaml, hash: 'sha256:719cb719bf4f56c2a32fd13de5511c0dad6624f318e44019aa9af2a01572fcce'}
   - {seq: 3, role: markers, filename: assets/KR3ed005_003.markers.yaml, hash: 'sha256:c5e7d2a459013d0166439db3083c421e3afa1914853e7c477571a75d16bd4398'}
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed005_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 484
   label: 孫序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed005_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 484
     - 1495
   label: 徐序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed005_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1495
     - 2085
   label: 沈序
@@ -12425,7 +12425,7 @@ table_of_contents:
   label: 二二二六喘
   type: section
   level: 2
-hash: sha256:bceae133600594ea5f8fcce7914650de2b190917bcaedcdfe04617a32800b744
+hash: sha256:de06795fa125a1d048761b428275da82dafd7a5262645232e982ba6c67caa433
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
